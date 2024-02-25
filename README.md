@@ -11,4 +11,4 @@ blobbybilb 2024, MIT License
 
 ---
 
-Note to self: Possible TODO: Option to return generated map in diff() and pass it to edit(), and a list to generated base string from it, since storing that effectively compresses the base string similar to how it compresses duplicate lines in diffs.
+Note to self & Possible TODO: Option to return generated map in diff() and pass it to edit(), and a list to generated base string from it, since storing that effectively compresses the base string similar to how it compresses duplicate lines in diffs.
